@@ -20,7 +20,7 @@ We aim to redefine the standards of proprietary trading by leveraging:
 
 ## 🛠️ Connect With Us
 - **Website**: [www.dragon3x.com](https://www.dragon3x.com)
-- **Email**: contact@dragon3x.com
+- **Email**: tech@dragon3x.com
 - **LinkedIn**: [Dragon 3X LLC](https://www.linkedin.com/company/dragon-3x-llc)
 
 ---
